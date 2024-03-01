@@ -1,11 +1,11 @@
 
 # git config user.name
 
-	fsilva1984
+	<usuario>
  
 # git config user.email
 
-	fsilva916@hotmail.com
+	<email_@usuario.com>
 
 
 
@@ -57,6 +57,9 @@ como demonstrado na figura abaixo
 
 
 
+######### mesclando os arquivos dos branch's #######
+
+# git merge <nome da branch a ser mesclada>
 
 
 
